@@ -12,3 +12,7 @@ Sistem kartu rencana studi online berbasis web, dibuat dengan menggunakan Codeig
 2.	Copy ke htdocs
 3.	Buat database baru & import file krs.sql
 4.	Sesuaikan konfigurasi database di file application/config/database.php
+
+---
+
+> **Created by Antono**
