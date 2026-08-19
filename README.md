@@ -1,7 +1,7 @@
 <!-- README ini dihasilkan otomatis oleh workflow .github/workflows/generate-readme.yml -->
 <!-- Jangan edit manual; perubahan akan ditim pada run berikutnya. -->
 
-<h1 align="center">Project 👋</h1>
+<h1 align="center">SIAKAD 👋</h1>
 
 <p align="center">
   <strong></strong>
