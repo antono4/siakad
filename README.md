@@ -1,7 +1,7 @@
 <!-- README ini dihasilkan otomatis oleh workflow .github/workflows/generate-readme.yml -->
 <!-- Jangan edit manual; perubahan akan ditim pada run berikutnya. -->
 
-<h1 align="center">SIAKAD 👋</h1>
+<h1 align="center">Project 👋</h1>
 
 <p align="center">
   <strong></strong>
@@ -11,7 +11,7 @@
   <a href="https://github.com/antono4/siakad"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/siakad-blue?logo=github"></a>
   <a href="https://antono4.github.io/siakad/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
   <img alt="Files" src="https://img.shields.io/badge/Files-276-informational">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-19 06:28:01 WIB-lightgrey">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-19 08:41:32 WIB-lightgrey">
 </p>
 
 ---
@@ -75,4 +75,4 @@ Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
 
 ---
 
-<sub>README ini di-generate otomatis pada **2026-08-19 06:28:01 WIB** oleh GitHub Actions .</sub>
+<sub>README ini di-generate otomatis pada **2026-08-19 08:41:32 WIB** oleh GitHub Actions .</sub>
