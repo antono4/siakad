@@ -1,2 +1,30 @@
-Last updated: 2026-09-15 12:17:25 WIB
-Last updated: 2026-09-15 12:24:36 WIB
+# siakad
+
+
+
+## 📋 Overview
+
+This repository contains **280 files** and is built with the following technologies:
+
+PHP
+
+## 🚀 Quick Start
+
+```bash
+php -S localhost:8000
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+PHP
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-15 13:03:56 WIB*
